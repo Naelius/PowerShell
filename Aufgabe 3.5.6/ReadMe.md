@@ -33,7 +33,7 @@ Heutiges Datum: 17.06.2025
 
 ## Nutzung
 
-1. Öffne das Skript `MeinErstesSkript.ps1` in der PowerShell IDE oder Visual Studio Code.
+1. Öffne das Skript `MeinErstesSkript.ps1` in der PowerShell ISE oder Visual Studio Code.
 2. Führe das Skript mit F5 oder über das Terminal aus.
 3. Passe die Variablen `$name`, `$name_02`, `$alter` und `$hobby` nach Belieben an, um eigene Ausgaben zu erzeugen.
 
