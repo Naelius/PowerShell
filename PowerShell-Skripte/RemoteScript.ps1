@@ -9,7 +9,7 @@ param(
     [PSCredential]$Credential,
     
     [Parameter(Mandatory=$false)]
-    [int]$DelaySeconds = 3,
+    [int]$DelaySeconds = 5,
     
     [Parameter(Mandatory=$false)]
     [switch]$Force
